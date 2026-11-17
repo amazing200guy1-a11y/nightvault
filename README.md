@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/badge/Tests-10%2F10%20Passing-brightgreen.svg)](test_nightvault.py)
 [![Latency](https://img.shields.io/badge/Latency-0.0579ms%2Fop-blue.svg)](test_nightvault.py)
 [![Languages](https://img.shields.io/badge/Languages-Compact%20%7C%20TypeScript%20%7C%20Python-orange.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Live Cockpit](https://img.shields.io/badge/Live%20Cockpit-Online-success.svg)](https://amazing200guy1-a11y.github.io/nightvault/)
 
 > **NightVault** is a privacy-first, non-custodial cryptographic inheritance protocol and asset dead-man switch built natively on the **Midnight Network**. If an owner becomes incapacitated or passes away, their digital assets automatically inherit to their loved ones — **with zero lawyers, zero custodians, and complete Zero-Knowledge privacy**. Nobody on-chain knows who your heirs are, what percentage they receive, or how much you own.
